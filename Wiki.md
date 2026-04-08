@@ -10,6 +10,7 @@
   * [x] Initialize Wiki & memory protocol
   * [x] Environment setup (requirements, gitignore, env templates, config)
   * [x] Ingestion scripts (loader, chunker)
+  * [x] Create public README.md for GitHub
   * [ ] Run `pip install` and configure `.env`
   * [ ] Data audit and raw document collection
   * [ ] Implement OCR pipeline
@@ -30,6 +31,7 @@
 Taher-Amen-project/
 ├── .env.example
 ├── .gitignore
+├── README.md
 ├── requirements.txt
 ├── Wiki.md
 ├── config/
