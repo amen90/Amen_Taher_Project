@@ -1,0 +1,7 @@
+langchain
+unstructured
+pypdf
+pdf2image
+pytesseract
+sentence-transformers
+python-dotenv
